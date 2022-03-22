@@ -1,0 +1,114 @@
+t d5e2e35ba7269b33cbf9337ca2ae5cb81b246160
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 21:37:00 2022 +0200
+
+    tehtävä11
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit e692f94cef722cfc4996fa99cffb48f7dac3d291
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 21:31:32 2022 +0200
+
+    tiedostoja lisätty
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 69058eb4c796b1a15827cfb7ffd8f3cc6d98c119
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 21:23:49 2022 +0200
+
+    tein muutoksia kolmanteen ja ekaan tiedostoon
+
+ eka.txt      |   2 +-
+ kolmas.txt   |   2 +-
+ tiedosto.txt | 237 -----------------------------------------------------------
+ 3 files changed, 2 insertions(+), 239 deletions(-)
+
+commit 08220d4e53369f13031fc1f78a854e8390f57cd4
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 21:18:37 2022 +0200
+
+    tiedoston nimi on nyt eka
+
+ eka.txt | 237 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 237 insertions(+)
+
+commit 86b979586ce0d97cec17c1380323ff851fcfb3da
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 21:17:21 2022 +0200
+
+    poistin toinen tiedosto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 2b7fa3719b4c1182ff6e047a04cc53477aa8d7d6
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 21:15:19 2022 +0200
+
+    poistin osa tekstiä ja laition hieman lisää myöskin
+
+ tiedosto.txt | 31 ++++++++++++++++---------------
+ 1 file changed, 16 insertions(+), 15 deletions(-)
+
+commit 58a664dba5ce50f4db2002977116685f8c23d212
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 21:11:43 2022 +0200
+
+    laition lisää tekstiä tiedostoon
+
+ tiedosto.txt | 237 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 236 insertions(+), 1 deletion(-)
+
+commit a4eadd4cb148800dd9d5cf2e00ed6a187e69dc3e
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 21:04:03 2022 +0200
+
+    lisäsin mp4 tiedosto stuff hakemistoon
+
+ stuff/test.mp4 | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ea3b657bf07243b5636479cab0192235b9901c89
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 21:01:46 2022 +0200
+
+    laitoin textiä toiseen ja kolmanteen
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 73b5eaaf7709821848691d367829d199117d03c3
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 20:58:54 2022 +0200
+
+    lisäsin kolmas
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 61441c1747f7114c9644d1071d7d9412c774599e
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 20:55:34 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 488e8816c3c8311b8a9491d1d010016aa6e73d6e
+Author: Axel Tuomi <axeltuomi21@gmail.com>
+Date:   Tue Mar 22 20:51:02 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)

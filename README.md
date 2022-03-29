@@ -5,5 +5,5 @@
 #### [komentorivi.txt](https://github.com/AxelTuomi/oj-harjoitustyo/blob/master/laskarit/komentorivi.txt)
 ### Viikko2
 #### [vaatimusmaarittely.md](https://github.com/AxelTuomi/oj-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
-#### [Työaikakirja.md]https://github.com/AxelTuomi/oj-harjoitustyo/blob/master/dokumentaatio/Ty%C3%B6aikakirja.md
+#### [Työaikakirja.md](https://github.com/AxelTuomi/oj-harjoitustyo/blob/master/dokumentaatio/Ty%C3%B6aikakirja.md)
 # Muutos

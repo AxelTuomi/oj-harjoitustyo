@@ -5,8 +5,8 @@ class Scrape:
         self.page = ""
 
     def load_website(self, URL):
-	self.page = requests.get(URL)
+        self.page = requests.get(URL)
 
     def search_for_ingredient(self, ingredient):
         ingredientsfound = self.page.find(ingredient)
-	return ingredientsfound
+        return ingredientsfound

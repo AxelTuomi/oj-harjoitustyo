@@ -15,5 +15,5 @@ class IngredientScrape:
         #self.page = driver.page_source
 
     def search_for_ingredient(self, ingredient):
-        ingredientsfound = self.page.find(ingredient)
+        ingredientsfound = self.page.text.find(ingredient)
         return ingredientsfound

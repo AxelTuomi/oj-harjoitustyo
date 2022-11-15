@@ -1,27 +1,31 @@
-EDULLINEN = 2.5
-MAUKAS = 4
+# aterioiden hinnat ovat senteissä
+EDULLINEN = 250
+MAUKAS = 400
 
 
 class Maksukortti:
-    def __init__(self, arvo_alussa):
-        self.arvo = arvo_alussa
+    def __init__(self, saldo):
+        # saldo on senteissä
+        self.saldo = saldo
 
     def syo_edullisesti(self):
-        if self.arvo >= EDULLINEN:
-            self.arvo -= EDULLINEN
+        if self.saldo >= EDULLINEN:
+            self.saldo -= EDULLINEN
 
     def syo_maukkaasti(self):
-        if self.arvo >= MAUKAS:
-            self.arvo -= MAUKAS
+        if self.saldo >= MAUKAS:
+            self.saldo -= MAUKAS
 
-    def lataa_rahaa(self, rahamaara):
-        if rahamaara < 0:
+    def lataa_rahaa(self, maara):
+        if maara < 0:
             return
 
-        self.arvo += rahamaara
+        self.saldo += maara
 
-        if self.arvo > 150:
-            self.arvo = 150
+        if self.saldo > 15000:
+            self.saldo = 15000
 
     def __str__(self):
-        return f"Kortilla on rahaa {self.arvo} euroa"
+        saldo_euroissa = round(self.saldo / 100, 2)
+
+        return "Kortilla on rahaa {:0.2f} euroa".format(saldo_euroissa)

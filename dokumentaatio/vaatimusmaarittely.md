@@ -18,12 +18,11 @@ Scrabble is a classic crossword-like board-game, my application intends to simul
 * If a player resigns before completing the first turn, the game is aborted and the score is not registered on the high score board
 * The high-score board will be saved to a database after each session.
 * The game ends when all letter squares are used unless timers have ran out.
-* In the rare case that there are no playable words left with the letters you posess, the game ends for you there.
+* In the rare case that there are no playable words left with the letters you posses, the game ends for you there.
 * There is a bag of 100 letters that the players will use.
 * Each player has 7 letters that can be played.
 * If the player has less than 7, which he usually does after a turn he will draw random letters from the bag, if the bag is not empty.
 * Players and computers have the option of using their turn to trade their letters for x amount of random ones drawn from the bag.
 * Players and computers can pass their turns 
 * At the end the player with a new high score is prompted to write in a name, If a name isn't written in, it will display, playerx (the x being a unique number)
-*
 

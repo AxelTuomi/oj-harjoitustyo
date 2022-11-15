@@ -1,6 +1,6 @@
 # Requirement Specification
 
-Scrabble is a classic crossword-like boardgame, my application intends to simulate this on a computer. There are two modes of play, you can play against computers that have varying levels of skill or you can do local hotseat game, where one player takes a turn and then looks away while the other player plays his turn. I intend to also implement a highscore board that displays at the end of the game or by navigating to it in the main menu. 
+Scrabble is a classic crossword-like board-game, my application intends to simulate this on a computer. There are two modes of play, you can play against computers that have varying levels of skill or you can do local Hotseat game, where one player takes a turn and then looks away while the other player plays his turn. I intend to also implement a high-score board that displays at the end of the game or by navigating to it in the main menu.
 
 ## Requirements
 
